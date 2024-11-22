@@ -1,4 +1,5 @@
-# LinuxJourney-Summaries  
+# LinuxGuideDigest
+ 
 
 **A collection of summarized guides from [LinuxJourney](https://linuxjourney.com) for quick learning and reference.**  
 
